@@ -1,1 +1,24 @@
-# doosan_rod_algorithm
+# doosan_ros_algorithm
+<!-- Failed to upload "presentaion_01_22_page-0001.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0002.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0003.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0004.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0005.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0006.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0007.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0008.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0009.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0010.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0011.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0012.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0013.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0014.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0015.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0016.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0017.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0018.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0019.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0020.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0021.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0022.jpg" -->
+<!-- Failed to upload "presentaion_01_22_page-0023.jpg" -->
