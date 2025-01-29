@@ -1,4 +1,7 @@
 # doosan_ros_algorithm
+
+유튜브 동작 및 발표 링크 : https://youtu.be/3h67jmiULWU?si=fsqcs0-4ZI92_rfa
+
 ![Image](https://github.com/user-attachments/assets/24792f50-d2b0-43ad-8b84-05a4ce5877ac)
 ![Image](https://github.com/user-attachments/assets/0188c500-f41a-44aa-9746-f9bd686f4448)
 ![Image](https://github.com/user-attachments/assets/3151f053-dad2-47e5-856b-c2aad9f9e628)
